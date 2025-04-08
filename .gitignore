@@ -1,0 +1,20 @@
+# Maven target directory
+/target/
+
+# Eclipse/VS Code project files
+.classpath
+.project
+.settings/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+
+# Java-specific
+*.class
+
+# VS Code specific
+.vscode/
