@@ -1,5 +1,5 @@
 
-# Selenium Java Practice Project
+# Selenium Java Practice
 
   
 
